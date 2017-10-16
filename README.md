@@ -25,7 +25,7 @@ Player options:
 <p> RANDOM = random legal moves </p>
 <p> MINIMAX = uses minimax algorithm to choose next move</p>
 <p> ABPRUNE = uses alpha-beta pruning algorithm to choose next move</p>
-<p> NYG316 = most optimal player using ab-pruning </p>
+<p> CUSTOM = most optimal player using ab-pruning </p>
 
 To play:
 <p>#define players (can choose any above player options)</p>
